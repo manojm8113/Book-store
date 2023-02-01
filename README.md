@@ -2,6 +2,7 @@
 Book store using Html , Css ,  Javascript , Bootstrap , Php ,and  Mysql
 ##### This helps easy to buy a books in online..
 This is the register form.In this form we have two option to select the usertype one is admin and another is user.
+![2023-02-01](https://user-images.githubusercontent.com/113529125/215982438-83d56bf3-5434-4f98-8aa0-b3c6323b87bd.png)
 ![2023-02-01 (1)](https://user-images.githubusercontent.com/113529125/215981265-4e3b3b93-657b-4517-90c6-4b3b600363b9.png)
 ![2023-02-01 (2)](https://user-images.githubusercontent.com/113529125/215981654-3060e1d4-0b10-4e6d-b980-46b89a861596.png)
 ![2023-02-01 (3)](https://user-images.githubusercontent.com/113529125/215981694-d9d26f01-7dac-4867-8a6e-422b5bb954d5.png)
@@ -17,4 +18,4 @@ This is the register form.In this form we have two option to select the usertype
 ![2023-02-01 (12)](https://user-images.githubusercontent.com/113529125/215982385-6424c33d-b7e2-4c1d-bf2c-dce005addebf.png)
 ![2023-02-01 (13)](https://user-images.githubusercontent.com/113529125/215982398-88d81204-08ea-4eed-b687-0615c847fd76.png)
 ![2023-02-01 (14)](https://user-images.githubusercontent.com/113529125/215982421-a8b738f9-fec4-4dc4-a670-21ea2b337452.png)
-![2023-02-01](https://user-images.githubusercontent.com/113529125/215982438-83d56bf3-5434-4f98-8aa0-b3c6323b87bd.png)
+
